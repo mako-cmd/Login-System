@@ -1,0 +1,4 @@
+Objectives
+
+- Users must be able to login using a user name and password of choice
+- Password and user name must be stored in a file

@@ -1,0 +1,2 @@
+C:\Users\asus\Documents\Projects\Login_System\Login-System\Login_System\Debug\Login_System.exe
+C:\Users\asus\Documents\Projects\Login_System\Login-System\Login_System\Debug\Login_System.pdb
